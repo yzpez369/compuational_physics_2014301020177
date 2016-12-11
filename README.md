@@ -1,4 +1,4 @@
-{+{+# compuational_physics_2014301020177
+]{+{+# compuational_physics_2014301020177
 For computional physics course
 +[Exercise 2](https://www.zybuluo.com/yzpwez369/note/504368)
 +[Exercise 3](https://www.zybuluo.com/yzpwez369/note/514539)
@@ -9,4 +9,4 @@ For computional physics course
 +[Exercise 9](https://www.zybuluo.com/yzpwez369/note/573499)
 +[Exercise 10](https://www.zybuluo.com/yzpwez369/note/581825)
 +[Exercise 11](https://www.zybuluo.com/yzpwez369/note/590053)
-+[Exercise 12}(https://www.zybuluo.com/yzpwez369/note/597787)
++[Exercise 12](https://www.zybuluo.com/yzpwez369/note/597787)
