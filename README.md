@@ -10,3 +10,4 @@ For computional physics course
 +[Exercise 10](https://www.zybuluo.com/yzpwez369/note/581825)
 +[Exercise 11](https://www.zybuluo.com/yzpwez369/note/590053)
 +[Exercise 12](https://www.zybuluo.com/yzpwez369/note/597787)
++[Final Exercise](https://www.zybuluo.com/yzpwez369/note/624036)
